@@ -1,0 +1,16 @@
+C:\Users\negro\source\repos\InternationalSeries.D\obj\Debug\net5.0\InternationalSeries.D.csproj.AssemblyReference.cache
+C:\Users\negro\source\repos\InternationalSeries.D\obj\Debug\net5.0\InternationalSeries.D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\negro\source\repos\InternationalSeries.D\obj\Debug\net5.0\InternationalSeries.D.AssemblyInfoInputs.cache
+C:\Users\negro\source\repos\InternationalSeries.D\obj\Debug\net5.0\InternationalSeries.D.AssemblyInfo.cs
+C:\Users\negro\source\repos\InternationalSeries.D\obj\Debug\net5.0\InternationalSeries.D.csproj.CoreCompileInputs.cache
+C:\Users\negro\source\repos\InternationalSeries.D\bin\Debug\net5.0\InternationalSeries.D.exe
+C:\Users\negro\source\repos\InternationalSeries.D\bin\Debug\net5.0\InternationalSeries.D.deps.json
+C:\Users\negro\source\repos\InternationalSeries.D\bin\Debug\net5.0\InternationalSeries.D.runtimeconfig.json
+C:\Users\negro\source\repos\InternationalSeries.D\bin\Debug\net5.0\InternationalSeries.D.runtimeconfig.dev.json
+C:\Users\negro\source\repos\InternationalSeries.D\bin\Debug\net5.0\InternationalSeries.D.dll
+C:\Users\negro\source\repos\InternationalSeries.D\bin\Debug\net5.0\ref\InternationalSeries.D.dll
+C:\Users\negro\source\repos\InternationalSeries.D\bin\Debug\net5.0\InternationalSeries.D.pdb
+C:\Users\negro\source\repos\InternationalSeries.D\obj\Debug\net5.0\InternationalSeries.D.dll
+C:\Users\negro\source\repos\InternationalSeries.D\obj\Debug\net5.0\ref\InternationalSeries.D.dll
+C:\Users\negro\source\repos\InternationalSeries.D\obj\Debug\net5.0\InternationalSeries.D.pdb
+C:\Users\negro\source\repos\InternationalSeries.D\obj\Debug\net5.0\InternationalSeries.D.genruntimeconfig.cache
